@@ -18,9 +18,6 @@ Use an Session ID login mod, one i recommend is: https://github.com/Schubilegend
 It generates a random 20 letter string, then sends a request to the EasyMC Token Redeem API, and if its valid, it redeems it and gives you the info about the account. (Minecraft Username, UUID, Session ID) 
 
 
-## Screenshots
-
-![App Screenshot](https://cdn.discordapp.com/attachments/1160238803735285833/1173258697032613948/hello__-_py_bruteforcer.py_1_b1.png?ex=65634d4f&is=6550d84f&hm=0067037319c7062c0290d3aa0f11f809aca69c44750be7145c30afccc135fcb8&)
 
 
 ## Installation
